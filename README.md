@@ -1,6 +1,6 @@
 # Job Notifier Bot 🚀
 
-Bot em .NET que monitora vagas automaticamente (Gupy) e envia notificações via Telegram.
+Bot em .NET que monitora vagas automaticamente e envia notificações via Telegram.
 
 ## 🔥 Funcionalidades
 
