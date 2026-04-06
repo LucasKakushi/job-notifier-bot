@@ -4,8 +4,8 @@ Bot em .NET que monitora vagas automaticamente (Gupy) e envia notificações via
 
 ## 🔥 Funcionalidades
 
-- Coleta vagas de múltiplas empresas (Gupy)
-- Filtro inteligente (tech + nível + exclusões)
+- Coleta vagas de múltiplas empresas
+- Filtro inteligente
 - Evita duplicação de vagas
 - Integração com Telegram
 
